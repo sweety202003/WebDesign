@@ -1,0 +1,67 @@
+<style>
+    footer{
+        background-color:blanchedalmond;
+        color:black; }
+#firstelement{
+    color:red;
+}
+#secondelement{
+    color:blue;
+}
+#thirdelement{
+    color:green;
+}
+#fourelement{
+    color:brown;
+}
+#fifthelement{
+    color:blueviolet;
+}
+#sixelement{
+    color:aqua;
+}
+.first{
+    border:2px solid salmon;
+
+ 
+
+}
+.second{
+    border: 2px solid slateblue;
+}
+.zero{
+    border:2px solid  greenyellow;
+}
+#listofelement{
+    border :2px solid rgb(38, 12, 153);
+}
+.verticalblock{
+border :2px solid rebeccapurple;
+width:100%;
+float:right;
+}
+#internalstyle{
+    @import url('https://fonts.googleapis.com/css2?family=WDXL+Lubrifont+TC&display=swap');
+}
+
+img{
+    box-shadow:black(88,68,89,0.2) 0px 7px 29px 0px;
+    border-radius:8px;
+}
+.table{
+    text-align:center;
+    border:1px solid #000;
+    border-collapse: collapse; 
+}
+tr,td,th{
+    border :1px solid #000;
+ padding: 10 px;
+}
+.iframe{
+    width :"560";
+    height:"314";
+}
+.form{
+    background-color:antiquewhite;
+}
+</style
